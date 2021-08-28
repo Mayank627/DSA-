@@ -1,2 +1,2 @@
 # DSA-
-Here's where I commit all the DSA questions.
+Here's where I practise all the DSA questions.
