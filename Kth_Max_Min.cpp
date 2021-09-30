@@ -13,7 +13,7 @@ int main()
     int k;
     cout<<"Enter the value of k: ";
     cin>>k;
-    cout<<"The kth max is: "<<arr[k-1]<<endl;
-    cout<<"The kth min is: "<<arr[n-k];
+    cout<<"The kth max is: "<<arr[n-k]<<endl;
+    cout<<"The kth min is: "<<arr[k-1];
     return 0;
 }
